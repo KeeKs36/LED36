@@ -45,5 +45,5 @@ def main():
   u.start_polling()
   u.idle()
  
-if __name__== '_main_':
+if __name__== '__main__':
     main()
